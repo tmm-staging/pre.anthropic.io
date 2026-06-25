@@ -1,2 +1,2 @@
 # pre.anthropic.io
-Take-Home Assignment
+The State of AI Revolution
